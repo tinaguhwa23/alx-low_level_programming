@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  */
-int _atoi("98")
+int _atoi(const char *str);
 int main(void)
 {
     int nb;
