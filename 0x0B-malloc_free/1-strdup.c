@@ -1,7 +1,6 @@
-i#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
-#include <stddef.h>
 /**
  * _strdup - duplicate to new memory space location
  * @str: char
